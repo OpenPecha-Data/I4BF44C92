@@ -1,0 +1,18 @@
+id: I4BF44C92
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:38.237422
+last_modified: 2023-01-04 11:28:38.237436
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  C4C6:
+    title: Long Life Prayer for Alak Zenkar Rinpoche
+    base_file: C4C6.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
